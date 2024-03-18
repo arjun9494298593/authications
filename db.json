@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": "b036",
+      "name": "arjun",
+      "email": "ar@gmail.com",
+      "number": "949429",
+      "age": "22"
+    },
+    {
+      "id": "29a0",
+      "name": "sdsd",
+      "email": "mallikarjuntiruvalluri@perfextechnologies.in",
+      "number": "1234567",
+      "age": "456"
+    }
+  ],
+  "loginusers": [
+    {
+      "id": "16f9",
+      "email": "mallikarjunmalli049@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "a0cd",
+      "email": "mr.arjun.9818@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "6a5a",
+      "email": "mallikarjuntiruvalluri@perfextechnologies.in",
+      "password": "1234"
+    },
+    {
+      "id": "becb",
+      "email": "luckymounika4757@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "a",
+      "email": "a@a.com",
+      "password": "1234"
+    }
+  ]
+}
